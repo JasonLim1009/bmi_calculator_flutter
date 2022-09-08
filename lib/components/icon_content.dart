@@ -15,6 +15,7 @@ class IconContent extends StatelessWidget {
         Icon(
           icon,
           size: 80.0,
+          color: Colors.yellow[700],
         ),
         SizedBox(
           height: 15.0,
